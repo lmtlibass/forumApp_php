@@ -4,13 +4,13 @@
    >taches 
 
 
-      -Inscription / connexion
-      -Publier une question
-      -Modifier un equestion
-      -Supprimer une question 
-      -Rechercher et afficher des questions
-      -Répondre à une question
-      -afficher le profil d'un utilisateur et ses informations
+   - Inscription / connexion
+   - Publier une question
+   - Modifier un equestion
+   - Supprimer une question 
+   - Rechercher et afficher des questions
+   - Répondre à une question
+   - afficher le profil d'un utilisateur et ses informations
     
    >dossiers
    ## action
